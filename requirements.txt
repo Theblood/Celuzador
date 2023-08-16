@@ -1,0 +1,4 @@
+requests
+Pillow  # Esto es para PIL
+tempfile  # No es necesario añadirlo, ya que forma parte de la biblioteca estándar de Python
+climage
